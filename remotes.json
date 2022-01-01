@@ -1,10 +1,10 @@
 {
     "apoptosis": {
-        "url": "https://github.com/apoptosis/apoptosis.org.git",
+        "url": "git@github.com:apoptosis/apoptosis.org.git",
         "description": "Wide ranging remote, from the creators of Episteme."
     },
     "test-remote": {
-        "url": "https://github.com/apoptosis/test.org.git",
+        "url": "git@github.com:apoptosis/test.org.git",
         "description": "A test remote."
     }
 }
