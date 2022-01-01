@@ -1,0 +1,27 @@
+#+title: epi-center
+
+A central repository of community [[https://github.com/apoptosis/episteme][Episteme]] remotes.
+
+[[https://github.com/apoptosis/episteme][Episteme]] is an Emacs distribution for collaborative knowledge-basing.
+
+* Adding your remote
+
+1. Add your remote to =remotes.json=
+
+   The format is simple enough:
+
+#+begin_src json
+  {
+      ...
+
+      "remote-name": {
+          "url": "https://github.com/you/repo-name.git",
+          "description": "What people will see about your remote."
+      }
+
+      ...
+  }
+#+end_src
+
+
+2. Submit a [[https://github.com/apoptosis/epi-center/pulls][pull request]].
