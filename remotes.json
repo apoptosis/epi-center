@@ -1,14 +1,17 @@
 {
     "episteme": {
-        "url": "git@github.com:apoptosis/episteme.git",
+        "host": "github.com",
+        "path": "apoptosis/episteme.git",
         "description": "Episteme Documentation"
     },
     "apoptosis": {
-        "url": "git@github.com:apoptosis/apoptosis.org.git",
+        "host": "github.com",
+        "path": "apoptosis/apoptosis.org.git",
         "description": "Wide ranging remote, from the creators of Episteme."
     },
     "test-remote": {
-        "url": "git@github.com:apoptosis/test.org.git",
+        "host": "github.com",
+        "path": "apoptosis/test.org.git",
         "description": "A test remote."
     }
 }
