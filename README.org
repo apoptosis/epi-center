@@ -12,7 +12,8 @@ A central repository of community [[https://github.com/apoptosis/episteme][Epist
    #+begin_src json
      {
          "remote-name": {
-             "url": "https://github.com/you/repo-name.git",
+             "host": "github.com",
+             "path": "you/repo-name.git",
              "description": "What people will see about your remote."
          }
      }
